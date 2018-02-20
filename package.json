@@ -15,12 +15,8 @@
   "bugs": {
     "url": "https://github.com/casijoe5231/Trackyyy/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/casijoe5231/Trackyyy#readme"
-=======
   "homepage": "https://github.com/casijoe5231/Trackyyy#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
->>>>>>> 29e5aead062bc11f4f76c1952ff3b15d8cba8398
 }
