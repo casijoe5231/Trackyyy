@@ -59,5 +59,8 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
 .vscode
+=======
+>>>>>>> 29e5aead062bc11f4f76c1952ff3b15d8cba8398
